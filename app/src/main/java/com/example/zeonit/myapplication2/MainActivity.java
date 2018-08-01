@@ -11,8 +11,10 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        LocaleHelper.setLocale(MainActivity.this,"si");
+        LocaleHelper.setLocale(MainActivity.this,"en");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+//        sdsdsd
     }
 }
