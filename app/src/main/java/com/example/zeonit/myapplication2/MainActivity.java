@@ -19,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
     }
     
     private void printName(String name){
+
         String myName = "sds";
+
+        String test = "Test";
     }
 }
