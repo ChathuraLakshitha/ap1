@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
         String myName = "sds";
 
         String test = "Test";
+
+        String one = "One";
     }
 }
