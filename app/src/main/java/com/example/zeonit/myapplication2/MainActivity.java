@@ -29,4 +29,6 @@ public class MainActivity extends AppCompatActivity {
         String two = "Two";
         String tree = "tree";
     }
+
+    private void methodTwo(){}
 }
