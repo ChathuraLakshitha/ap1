@@ -27,5 +27,6 @@ public class MainActivity extends AppCompatActivity {
         String one = "One";
 
         String two = "Two";
+        String tree = "tree";
     }
 }
