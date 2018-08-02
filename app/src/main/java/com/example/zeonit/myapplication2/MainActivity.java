@@ -33,4 +33,8 @@ public class MainActivity extends AppCompatActivity {
     private void testing(){
         int x = 10;
     }
+
+    private void methodTwo(){
+
+    }
 }
